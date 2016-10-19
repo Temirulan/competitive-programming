@@ -1,4 +1,6 @@
-#pragma comment(linker, "/STACK:64000000")
+/*
+ * http://codeforces.com/contest/487/problem/B
+ */
 #include <iostream>
 #include <cmath>
 #include <cstdio>
