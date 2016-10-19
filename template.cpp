@@ -1,4 +1,3 @@
-#pragma comment(linker, "/STACK:64000000")
 #include <iostream>
 #include <cmath>
 #include <cstdio>
